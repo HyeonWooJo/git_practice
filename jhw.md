@@ -1,1 +1,1 @@
-print("Hello wecoders, I am JHW")
+안녕하세요!
